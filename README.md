@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hello there!
 
-<!--
-**elijahbade/elijahbade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Elijah Ajibade, a Full Stack Software Engineer with a passion for leveraging technology to pressing world problems with technology! 
 
-Here are some ideas to get you started:
+💡 Here’s a little about me:
+🔭 Currently working with: Languages: JavaScript, Python & PHP | Frameworks & Libraries: React, Node.js, Express, MongoDB
+🌱 Currently learning: Cloud DevOps, with a focus on AWS and CI/CD pipelines
+👯 Getting better at: Building scalable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: JavaScript (React, Node.js), Python Backend Development, APIs, and Database Design, Frontend Development and Responsive Design
+
+📫 How to reach me:
+Email: developerelijah360@gmail.com
+
+I’m looking to work on projects around web devlopment, ML/AI,  Web3 etc... 
+I'mm always looking to forward to learning, growing, and collaborating with others to ship great products and services!  🌟
+
+⚡ Fun fact: When I'm not coding, I'm busy exploring nature or teaching pre-teens coding and basic life skills. :-) 
