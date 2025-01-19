@@ -4,7 +4,7 @@ I’m Elijah Ajibade, a Full Stack Software Engineer with a passion for leveragi
 
 💡 Here’s a little about me:
 
-🔭 Currently working with: Languages: JavaScript, Python & PHP | Frameworks & Libraries: React, Node.js, Express, MongoDB
+🔭 Currently working with: Languages: JavaScript (TypeScript), Python & PHP | Frameworks & Libraries: React, Node.js, Express, MongoDB
 🌱 Currently learning: Cloud DevOps, with a focus on AWS and CI/CD pipelines
 👯 Getting better at: Building scalable systems! 
 
